@@ -1,6 +1,9 @@
 body {
     color: #333333;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
 }
 
 h1 {
@@ -26,6 +29,13 @@ figure {
     text-align: center;
     padding: 15px;
     margin: 30px;
+}
+
+#centro-distribuicao {
+margin-left:auto;
+margin-right:auto;
+width:550px;
+
 }
 
 figcaption {
