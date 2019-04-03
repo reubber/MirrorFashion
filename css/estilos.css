@@ -1,5 +1,9 @@
 .sacola {
     background-image: url(../img/sacola.png);
+    position: absolute;
+    top:0;
+    right: 0;
+    
     background-repeat: no-repeat;
     background-position:top right;
     width: 140px;
@@ -17,7 +21,15 @@
     margin-left: 20px;
 }
 
+.menu-opcoes{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
 .menu-opcoes a{
+   
     color: #003366;
 }
 
@@ -29,4 +41,8 @@
 body {
     color: #333333;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    position: relative;
 }
