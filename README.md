@@ -1,3 +1,3 @@
 # MirrorFashion
 Projeto web usando html e css na pratica
-<img src="https://raw.githubusercontent.com/reubber/MirrorFashion/img/readmeMF.png"/>
+<img src="https://github.com/reubber/MirrorFashion/blob/master/img/readmeMF.png"/>
